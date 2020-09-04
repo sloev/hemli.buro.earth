@@ -2,3 +2,4 @@ worker/node_modules
 node_modules
 worker/worker
 dist/
+worker/script.js

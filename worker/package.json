@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "worker",
+  "version": "1.0.0",
+  "description": "A template for kick starting a Cloudflare Workers project",
+  "main": "index.js",
+  "author": "Ashley Lewis <ashleymichal@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "base2048": "^1.0.3",
+    "json-cipher": "0.0.3"
+  }
+}
