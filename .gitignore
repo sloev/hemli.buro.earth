@@ -3,3 +3,4 @@ node_modules
 worker/worker
 dist/
 worker/script.js
+.env

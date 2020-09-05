@@ -78,3 +78,9 @@ $ curl -vvv 'https://hemli-buro-earth.sloev.workers.dev/decode/३Ƽʣ໐r෨Ҙ�
 ```
 
 as you can see the redirect went through!
+
+
+## Development
+
+1. put an `CF_ACCOUNT_ID=YOUR ACCOUNT ID FROM CLOUDFLARE` in a `.env` file
+2. run `make preview`
